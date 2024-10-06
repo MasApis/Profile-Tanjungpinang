@@ -113,6 +113,7 @@ footer {
     }
     nav ul {
         justify-content: center;
+        gap: 1em;
     }
     main aside {
         align-self: center;
@@ -123,6 +124,6 @@ footer {
         align-self: stretch;
     }
     header .jumbroton h1 {
-        font-size: 2.2em;
+        font-size: 2.4em;
     }
 }
