@@ -125,7 +125,10 @@ footer {
         align-self: stretch;
     }
     header .jumbroton h1 {
-        font-size: 2.1em;
+        font-size: 2em;
+    }
+    header .jumbroton p {
+        font-size: 0.9em;
     }
     header nav ul {
         gap: 1.9em;
